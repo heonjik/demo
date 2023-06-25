@@ -1,3 +1,3 @@
 # demo
 
-This resipitory is for my own practice.
+this repository is for my own practice
